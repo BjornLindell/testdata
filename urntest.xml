@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records xsi:schemaLocation="urn:nbn:se:uu:ub:epc-schema:rs-location-mapping http://urn.kb.se/resolve?urn=urn:nbn:se:uu:ub:epc-schema:rs-location-mapping&amp;godirectly" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <protocol-version>3.0</protocol-version>
+  <datestamp type="modified">2024-09-02T00:00:00Z</datestamp>
+  <record>
+    <header>
+      <identifier>urn:nbn:se:test:oskar-1455</identifier>
+      <destinations>
+        <destination status="activated">
+          <url>https://carkiv.musikverk.se/www/epublikationer/Ternhag_Gunnar_Vad_sager_Daniel_Hanssons_visbok.pdf</url>
+        </destination>
+      </destinations>
+    </header>
+  </record>
+  <record>
+    <header>
+      <identifier>urn:nbn:se:test:oskar-1785</identifier>
+      <destinations>
+        <destination status="activated">
+          <url>https://carkiv.musikverk.se/www/fore2020/orren_bi_13591_08.pdf</url>
+        </destination>
+      </destinations>
+    </header>
+  </record>
+  </records>
