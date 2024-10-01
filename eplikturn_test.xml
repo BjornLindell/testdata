@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records xsi:schemaLocation="urn:nbn:se:uu:ub:epc-schema:rs-location-mapping http://urn.kb.se/resolve?urn=urn:nbn:se:uu:ub:epc-schema:rs-location-mapping&amp;godirectly" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<datestamp type="modified">2024-10-01T00:00:00Z</datestamp>
+  <protocol-version>3.0</protocol-version>
+    <record>
+    <header>
+      <identifier>urn:nbn:se:kb:eplikt-1</identifier>
+      <destinations>
+        <destination status="activated">
+          <url>https://www.kb.se/insamling-och-pliktleverans/e-plikt---steg-for-steg.html</url>
+        </destination>
+      </destinations>
+    </header>
+    <metadata format="dc">
+      <dc:title>Information om elektronisk plikt</dc:title>
+      <dc:date>2024</dc:date>
+    </metadata>
+  </record>
+</records>
